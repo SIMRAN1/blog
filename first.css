@@ -1,0 +1,45 @@
+h1
+{
+	text-align:center;
+	color:red;
+	
+	}
+	
+body
+{
+	background-color:blue;
+	overflow:hidden;
+	
+}
+a
+{
+	color:red;
+}
+	
+.sim
+{
+	position:relative;
+	left:800px;
+	color:white;
+	
+	
+}
+.sims
+{
+	background-image:url("imagesss.png");
+	
+}
+.simr
+{
+	position:absolute;
+	left:800px;
+	display:inline-block;
+	
+}
+    	
+}
+.omg
+{
+	overflow:hidden;
+	
+}

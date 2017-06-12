@@ -1,0 +1,36 @@
+h1
+{
+	text-align:center;
+	color:blue;
+}
+h2
+{
+	color:blue;
+}
+.sim
+{    
+	display:inline-block;
+	float:left;
+	
+}
+.sec
+{
+	
+	display:inline-block;
+	
+}
+.im
+{
+	float:left;
+	display:inline-block;
+}
+p
+{
+	position:relative;
+	left:30px;
+	font-family:sans-serif;
+}
+body
+{
+	background-color:pink;
+}

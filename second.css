@@ -1,0 +1,17 @@
+body
+{
+	background-image:url("back.png");
+}
+h1
+{text-align:center;
+color:blue;
+}
+.sim
+{position:relative;
+margin-left: 40%;
+  margin-top:10%;
+  width:15%;
+  
+  
+color:blue;
+}

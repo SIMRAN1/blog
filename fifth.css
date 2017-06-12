@@ -1,0 +1,33 @@
+h1,h2
+{
+	text-align:center;
+	color:blue;
+}
+body
+{
+	background-color:pink;
+	overflow-x:hidden;
+	
+}
+.simss
+{
+	padding-left:60px;
+}
+p
+{
+font-family:sans-serif;
+}
+.imge{
+	height:350px;
+	width:1340px;
+}
+
+.im
+{
+	float:left;
+}
+.i
+{
+	position:relative;
+	left:60px;
+}
